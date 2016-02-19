@@ -8,5 +8,8 @@ Thumbs.db
 .idea/
 .htaccess
 
-#Remove node modules
+#Remove node modules:
 /node_modules/*
+
+#Remove reactJS build file:
+/public/bundle.js
