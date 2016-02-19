@@ -12,4 +12,4 @@ var Main = React.createClass({
     }
 });
 
-ReactDOM.render(<Main />, document.getElementById('app'));
+module.exports = Main;
